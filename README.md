@@ -25,7 +25,7 @@ Algunos datos sobre mi:
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![C#](https://img.shields.io/badge/-C#-333333?style=flat&logo=c%23)
+  ![c%23](https://img.shields.io/badge/-c%23-333333?style=flat&logo=c%23)
   ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sql)
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 📚 &nbsp;
