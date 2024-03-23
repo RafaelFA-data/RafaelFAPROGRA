@@ -2,7 +2,7 @@
 
 <h1 align="center" > Hola, Soy Rafael Farfan 🤓💻</h1> 
 <h1 align="center" >
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hola+que+tal+👋;Me+llamo+Rafael+Farfan+🤓💻" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hola+que+tal+👋;Me+llamo+Rafael+Farfan+🤓💻" alt="Typing SVG" /></a>
 </h1> 
 <p align="center"> Soy una apasionada de la tecnología 💻 , graduada en ingeniería agronómica 🌱 🌼 🌾 y una pasión por la ciencia de datos 📊. Mi misión es fusionar el mundo de la agricultura y la tecnología para mejorar los procesos productivos y contribuir a un futuro más sostenible. Me encanta programar y utilizar mis habilidades para analizar datos y encontrar soluciones innovadoras. Mi curiosidad no tiene límites 💡, y mi interés abarca desde la economía, el mundo de la programaciòn, y la biología. Siempre estoy buscando oportunidades para aplicar la inteligencia de negocios y utilizar la tecnología para impulsar el cambio positivo en el mundo. ¡Acompáñame en este emocionante viaje hacia un futuro más inteligente y sostenible! 🌱📊💡</p>
 
