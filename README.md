@@ -14,7 +14,6 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </div>
-
 Algunos datos sobre mi:
 
 - 🔭 Creando proyectos aplicando mis conocimientos en Análisis de Datos y Ciencia de Datos.
