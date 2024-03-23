@@ -25,12 +25,9 @@ Algunos datos sobre mi:
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)
   ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sql)
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 📚 &nbsp;
-  ![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow)
-  ![Keras](https://img.shields.io/badge/-Keras-333333?style=flat&logo=keras)
   ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
   ![Numpy](https://img.shields.io/badge/-Numpy-333333?style=flat&logo=numpy)
   ![Matplotlib](https://img.shields.io/badge/-Matplotlib-333333?style=flat&logo=matplotlib)
@@ -40,6 +37,7 @@ Algunos datos sobre mi:
   ![Streamlit](https://img.shields.io/badge/-Streamlit-333333?style=flat&logo=streamlit)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=MySQL)
+  ![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=oracle)
   ![BigQuery](https://img.shields.io/badge/-BigQuery-333333?style=flat&logo=bigquery)
   ![Postgres](https://img.shields.io/badge/-Postgres-333333?style=flat&logo=postgresql)
   ![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite)
