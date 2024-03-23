@@ -1,4 +1,4 @@
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge)
+<image align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge"</> 
 
 <h1 align="center" > Hola, Soy Rafael Farfan 🤓💻</h1> 
 
