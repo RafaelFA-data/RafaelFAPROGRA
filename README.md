@@ -1,4 +1,4 @@
-<image align="right" src="https://visitor-badge.laobi.icu/badge?page_id=RafaelFAPROGRA.visitor-badge"/> 
+<image align="right" src="https://visitor-badge.laobi.icu/badge?page_id=RafaelFAPROGRA.RafaelFAPROGRA"/> 
 
 <h1 align="center" > Hola, Soy Rafael Farfan 🤓💻</h1> 
 
