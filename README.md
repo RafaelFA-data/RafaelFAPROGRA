@@ -18,8 +18,8 @@ Algunos datos sobre mi:
 
 - 🔭 Creando proyectos aplicando mis conocimientos en Análisis de Datos ...
 - 🌱 Actualmente estoy estudiando Data Science en el bootcamp de HENRY ...
-- 👯 Me gusta socializar y trabajar en equipo
-- 🎾 Deportes al aire libre son mis favoritos
+- 👯 Me gusta socializar y trabajar en equipo (Todos mejor que uno 🫡)
+- 🎾 Me fascina los deportes, especialmente el fútbol ⚽
 - 😄 Me encantan los libros y las mascotas
 - ⚡ Prefiero el orden, y le las cosas luzcan bonitas, para que puedean entenderse mejor
 
