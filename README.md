@@ -25,6 +25,7 @@ Algunos datos sobre mi:
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![C#](https://img.shields.io/badge/-C#-333333?style=flat&logo=sql)
   ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sql)
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 📚 &nbsp;
@@ -41,7 +42,6 @@ Algunos datos sobre mi:
   ![BigQuery](https://img.shields.io/badge/-BigQuery-333333?style=flat&logo=bigquery)
   ![Postgres](https://img.shields.io/badge/-Postgres-333333?style=flat&logo=postgresql)
   ![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite)
-  ![ApacheCassandra](https://img.shields.io/badge/-Cassandra-333333?style=flat&logo=apache-cassandra&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 - 🔧 &nbsp;
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
@@ -57,7 +57,6 @@ Algunos datos sobre mi:
   ![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=jupyter)
   ![colab](https://img.shields.io/badge/-colab-333333?style=flat&logo=colabbadge)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
 - ☁️ &nbsp;
   ![Render](https://img.shields.io/badge/-Render-333333?style=flat&logo=render)
 
