@@ -4,7 +4,7 @@
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hola+que+tal+👋;Me+llamo+Rafael+Farfan+🤓💻" alt="Typing SVG" /></a>
 </h1> 
 
-<p align="center"> Actualmente graduado de la carrera de Ingeniería de Computación y Sistemas 💻, incursionando y disfrutando el mundo de los Datos 📊. Siempre supe que los datos, la información y el conocimiento puede ayudar a solucionar y/o tomar decisiones en muchos ámbitos. Quisiera utilizar este conocimiento para poder encontrar soluciones innovadores en muchas cosas de mi interés. Como es en el caso de los deportes, en especial el fútbol. Intento seguir aprendiendo y mejorando cada día. Mi mayor motivación actualmente es seguir buscando oportunidades como Analista de Datos y Científico de Datos. 💡</p>
+<p align="center"> Actualmente graduado de la carrera de Ingeniería de Computación y Sistemas 💻, incursionando y disfrutando el mundo de los Datos 📊. Siempre supe que los datos, la información y el conocimiento pueden ayudar a solucionar y/o tomar decisiones en muchos ámbitos. Quisiera utilizar este conocimiento para poder encontrar soluciones innovadoras en muchas cosas de mi interés. Como es en el caso de los deportes, en especial el fútbol. Intento seguir aprendiendo y mejorando cada día. Mi mayor motivación actualmente es seguir buscando oportunidades como Analista de Datos y Científico de Datos. 💡</p>
 
 <div align="center">
   <a href='https://www.linkedin.com/in/rafael-farfán-acuña/'>
