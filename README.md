@@ -17,7 +17,7 @@
 Algunos datos sobre mi:
 
 - 🔭 Creando proyectos aplicando mis conocimientos en Análisis de Datos y Ciencia de Datos.
-- ✍ Actualmente estoy estudiando Data Science en el bootcamp de HENRY.
+- ✍ He culminado mis estudios de Data Science en el bootcamp de HENRY.
 - 👯 Me gusta socializar y trabajar en equipo (Todos mejor que uno 💪).
 - 🎾 Me fascina los deportes, especialmente el fútbol ⚽.
 - 😄 Me encantan los ánimes y las mascotas.
